@@ -1,6 +1,23 @@
-# OH DONG JAE👍
+## Hello! I'm Dong-Jae Oh 👋
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdjDongjae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dong-Jae%20Oh's%20Github%20&fontSize=60&animation=twinkling" />
+</div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djDongjae&theme=codeSTACKr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)           
+<h2>📚 Stacks 📚</h2>
+<p>
+
+<img alt="RED" src ="https://img.shields.io/badge/SPRING Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Mysql-003545.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>
+
+</p>
+
+
+<h2>📈 Stats 📈</h2>
+
+<div align=center>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=isf1999)](https://solved.ac/isf1999)
+![Dong-Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=djdongjae&show_icons=true&theme=radical)
+
+</div>      
